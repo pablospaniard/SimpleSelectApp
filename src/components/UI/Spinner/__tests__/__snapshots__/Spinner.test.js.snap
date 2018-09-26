@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner_snapshot_1 1`] = `
+<div
+  class="sc-bdVaJa qNlxh"
+  data-testid="spinner"
+>
+  <div />
+  <div />
+  <div />
+  <div />
+</div>
+`;
