@@ -71,7 +71,7 @@ const Interviewing = props => {
 
 Interviewing.propTypes = {
   persons: PropTypes.array.isRequired,
-  onChangeHandler: PropTypes.func.isRequired,
+  onChangeHandler: PropTypes.func,
   classes: PropTypes.object,
   selected: PropTypes.array.isRequired
 }

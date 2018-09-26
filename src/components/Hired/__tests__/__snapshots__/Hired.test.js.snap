@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hired_snapshot_1 1`] = `
+<h3
+  class="MuiTypography-root-3 MuiTypography-subheading-10"
+  style="padding: 20px;"
+>
+  You not selected any candidates...
+</h3>
+`;

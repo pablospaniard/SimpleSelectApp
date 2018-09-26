@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App_snapshot_1 1`] = `
+<div
+  class="MuiGrid-container-1"
+>
+  <div
+    class="MuiGrid-item-2 MuiGrid-grid-xs-2-31 sc-bwzfXH fUBRka"
+  />
+  <div
+    class="MuiGrid-item-2 MuiGrid-grid-xs-8-37"
+  >
+    <div
+      class="MuiPaper-root-98 MuiPaper-elevation2-102 MuiPaper-rounded-99"
+    >
+      <div
+        class="sc-bdVaJa gDMQUI"
+        data-testid="spinner"
+      >
+        <div />
+        <div />
+        <div />
+        <div />
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-item-2 MuiGrid-grid-xs-2-31 sc-bwzfXH fUBRka"
+  >
+    <button
+      tabindex="0"
+      class="MuiButtonBase-root-151 MuiButton-root-125 MuiButton-text-127 MuiButton-textSecondary-129 MuiButton-flat-130 MuiButton-flatSecondary-132"
+      type="button"
+    >
+      <span
+        class="MuiButton-label-126"
+      >
+        Next
+      </span>
+      <span
+        class="MuiTouchRipple-root-154"
+      />
+    </button>
+  </div>
+</div>
+`;

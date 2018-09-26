@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Applied_snapshot_1 1`] = `
+<table
+  class="MuiTable-root-3 Applied-table-2"
+>
+  <thead
+    class="MuiTableHead-root-4"
+  >
+    <tr
+      class="MuiTableRow-root-5 MuiTableRow-head-8"
+    >
+      <th
+        class="MuiTableCell-root-10 MuiTableCell-head-11"
+        scope="col"
+      >
+        Foto
+      </th>
+      <th
+        class="MuiTableCell-root-10 MuiTableCell-head-11"
+        scope="col"
+      >
+        Full Name
+      </th>
+      <th
+        class="MuiTableCell-root-10 MuiTableCell-head-11"
+        scope="col"
+      >
+        Email
+      </th>
+      <th
+        class="MuiTableCell-root-10 MuiTableCell-head-11"
+        scope="col"
+      >
+        CellPhone
+      </th>
+      <th
+        class="MuiTableCell-root-10 MuiTableCell-head-11"
+        scope="col"
+      >
+        Nationality
+      </th>
+      <th
+        class="MuiTableCell-root-10 MuiTableCell-head-11"
+        scope="col"
+      />
+    </tr>
+  </thead>
+  <tbody
+    class="MuiTableBody-root-18"
+  >
+    <tr
+      class="MuiTableRow-root-5"
+    >
+      <td
+        class="MuiTableCell-root-10 MuiTableCell-body-12"
+      >
+        <img
+          src="https://randomuser.me/api/portraits/thumb/women/69.jpg"
+          alt="foto"
+        />
+      </td>
+      <th
+        class="MuiTableCell-root-10 MuiTableCell-body-12"
+        scope="row"
+      >
+        nicky vargas
+      </th>
+      <td
+        class="MuiTableCell-root-10 MuiTableCell-body-12"
+      >
+        nicky.vargas@example.com
+      </td>
+      <td
+        class="MuiTableCell-root-10 MuiTableCell-body-12"
+      >
+        0707-619-299
+      </td>
+      <td
+        class="MuiTableCell-root-10 MuiTableCell-body-12"
+      >
+        GB
+      </td>
+      <td
+        class="MuiTableCell-root-10 MuiTableCell-body-12"
+      >
+        <span
+          class="MuiButtonBase-root-35 MuiIconButton-root-29 MuiSwitchBase-root-25 MuiCheckbox-root-19 MuiCheckbox-colorSecondary-24"
+        >
+          <span
+            class="MuiIconButton-label-34"
+          >
+            <svg
+              class="MuiSvgIcon-root-38"
+              focusable="false"
+              viewBox="0 0 24 24"
+              aria-hidden="true"
+              role="presentation"
+            >
+              <path
+                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+              />
+            </svg>
+            <input
+              class="MuiSwitchBase-input-28"
+              type="checkbox"
+              data-indeterminate="false"
+              value=""
+            />
+          </span>
+          <span
+            class="MuiTouchRipple-root-47"
+          />
+        </span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
